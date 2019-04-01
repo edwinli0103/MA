@@ -1,6 +1,6 @@
-# mace
+# MA
 
-> A Vue.js project
+> 为健身爱好者搭建的网站（手机端）
 
 ## Build Setup
 
